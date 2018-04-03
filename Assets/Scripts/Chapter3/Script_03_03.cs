@@ -34,6 +34,6 @@ public class Script_03_03 : MonoBehaviour
         GUI.Label(new Rect(10, 80, 50, 30), "密码");
 
         editUsername = GUI.TextField(new Rect(60, 40, 200, 30), editUsername, 15);
-        editPasseword = GUI.PasswordField(new Rect(60, 80, 200, 30), "密码", "**"[0], 15);
+        editPasseword = GUI.PasswordField(new Rect(60, 80, 200, 30), editPasseword, "*"[0], 15);
     }
 }

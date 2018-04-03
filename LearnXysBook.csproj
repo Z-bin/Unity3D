@@ -78,8 +78,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Script_03_01.cs" />
-    <Compile Include="Assets\Scripts\Script_03_03.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_01.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_03.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_04.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_05.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_06.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_07.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Script_03_08.cs" />
     <Compile Include="Assets\Scripts\move.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
