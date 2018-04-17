@@ -99,6 +99,26 @@
     <Compile Include="Assets\Scripts\Chapter3\Script_03_20.cs" />
     <Compile Include="Assets\Scripts\Chapter3\Script_03_21.cs" />
     <Compile Include="Assets\Scripts\Chapter3\Script_03_22.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_01.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_02.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_03.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_04.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_04_Test.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_06.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_08.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_09.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_10.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_11.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_13.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_14.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_16.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Script_04_17.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Scripts_04_05\Script_04_A0.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Scripts_04_05\Script_04_A1.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Scripts_04_05\Script_04_B0.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Scripts_04_05\Script_04_B1.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Scripts_04_05\Script_04_C0.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Scripts_04_05\Script_04_C1.cs" />
     <Compile Include="Assets\Scripts\move.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
